@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650138359417",
+    "project_id": "signup-firebase-7bb3d",
+    "storage_bucket": "signup-firebase-7bb3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650138359417:android:7bfb7ae8353aa819f6a6a8",
+        "android_client_info": {
+          "package_name": "com.example.sanfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC3swYFg45MqdwYRBmHnM1DzBu1slYhR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
